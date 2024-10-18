@@ -12,6 +12,7 @@ A simple command-line tool that slices sprite sheets into individual sprites usi
 - .NET 8.0 or higher
 - OpenCVSharp4
 - ImageMagick.NET (Magick.NET)
+- ImageMagick
 
 ## Installation
 
