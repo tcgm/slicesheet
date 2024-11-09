@@ -20,8 +20,8 @@ A simple command-line tool that slices sprite sheets into individual sprites usi
 To get started, clone this repository to your local machine:
 
 ```
-git clone https://github.com/tcgm/spritesheet-slicer.git
-cd spritesheet-slicer
+git clone https://github.com/tcgm/slicesheet.git
+cd slicesheet
 ```
 
 ### Step 2: Install Dependencies
